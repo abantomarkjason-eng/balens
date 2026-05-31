@@ -39,6 +39,7 @@
                 <div style="margin-bottom: 15px; position: relative;">
                     <div style="position: absolute; left: 15px; top: 50%; transform: translateY(-50%); color: #6c757d;">
                         <i class="bi bi-lock-fill"></i>
+
                     </div>
                     <input type="password" name="password" id="password" placeholder="Password" required style="width: 100%; padding: 15px 45px 15px 45px; border: 1px solid #e0e0e0; border-radius: 12px; font-size: 14px; outline: none; background: #fafafa;">
                     <div style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%); color: #6c757d; cursor: pointer;" onclick="togglePassword()">
